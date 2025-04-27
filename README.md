@@ -2,6 +2,8 @@
 
 The **Daily Finance Tracker** is a simple, lightweight web application to help you manage your daily expenses and income. It lets you add, view, and analyze your transactions — and it keeps your data safe even after page reloads using the browser's **LocalStorage**.
 
+View: https://aligohar2151.github.io/Finance-Traker/
+
 ## ✨ Features
 
 - **Add Expenses and Income:** Enter amount, category, date, and description easily.
